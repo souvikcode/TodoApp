@@ -2,6 +2,7 @@
 
 ## ABOUT:
 An APP to keep record of all the activities to be performed in day-to-day basis. It helps in making us remember any important task which we might forget later, so we need to store the activities in the app and the app will make us remember when time comes.
+Database used to store tasks: RoomDB
 
 ## APP IMAGES:
 
