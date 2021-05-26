@@ -3,6 +3,7 @@ package com.example.todoapp
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
+// properties
 @Entity
 data class TodoModel(
     var title:String,
